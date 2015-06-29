@@ -1,4 +1,11 @@
-# Script to delete existing plugin ID and create and insert new plugin ID.
+# Script to replace Alienvault plugin
+# Author: Erik LaBelle at e_labelle@sbcglobal.net
+# Last modification: 2015-03-15 12:17
+#
+# Accepted products:
+# Barrier1 syslog 
+#
+# Description: Script to delete existing plugin ID and create and insert new plugin ID.
 # Built following instructions in "How to create a data source plugin" by Natividad Baena from AlienVault.
 # See Baena's instructions on how to load the .cfg config file and execute the .sql SQL file:
 # https://alienvault.bloomfire.com/posts/747999-how-to-create-a-data-source-plugin
